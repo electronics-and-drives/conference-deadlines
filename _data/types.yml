@@ -1,0 +1,13 @@
+---
+- name: Electronic Design Automation
+  sub: EDA
+  color: "#6016CD"
+- name: Integrated Circuit Design
+  sub: IC
+  color: "#00A07E"
+- name: Electrical Drives
+  sub: DRV
+  color: "#FFA62B"
+- name: Power Electronics
+  sub: PE
+  color: "#D62828"

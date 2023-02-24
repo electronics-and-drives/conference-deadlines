@@ -1,0 +1,43 @@
+---
+
+- title: DATE
+  year: 2023
+  id: date23
+  link: https://www.date-conference.com/
+  deadline: '2022-09-25 23:59:59'
+  abstract_deadline: '2022-09-18 23:59:59'
+  timezone: UTC+1
+  place: Antwerp, Belgium
+  date: April 17-19, 2023
+  start: 2023-04-17
+  end: 2023-04-19
+  hindex: 48
+  sub: EDA
+  note: <a href='https://www.date-conference.com/DATE2023-Call-for-Papers-print.pdf'>Call for Papers</a>.
+- title: MLCAD
+  year: 2023
+  id: mlcad23
+  link: https://mlcad-workshop.org/
+  deadline: '2023-06-17 23:59:59'
+  timezone: EST
+  place: Reykjavík, Iceland
+  date: September 10-13, 2023
+  start: 2023-09-10
+  end: 2023-09-13
+  hindex: 00
+  sub: EDA
+- title: ICCAD
+  year: 2023
+  id: iccad23
+  link: https://iccad.com/
+  deadline: '2023-05-22 23:59:59'
+  abstract_deadline: '2022-05-15 23:59:59'
+  timezone: EST
+  place: San Fransisco, USA
+  date: October 29 - November 2, 2023
+  start: 2023-10-29
+  end: 2023-11-2
+  hindex: 00
+  sub: EDA
+  note: <a href='https://confcats-siteplex.s3.us-east-1.amazonaws.com/iccad23/ICCAD_2023_CFP_beebf09bca.pdf'>Call for Papers</a>.
+

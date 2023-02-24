@@ -1,0 +1,15 @@
+title: Conference Deadlines
+description: Countdowns to ML/EDA/IC/EE/PE conference deadlines
+author: Electronics & Drives
+
+domain: "electronics-and-drives.github.io/conference-deadlines"
+baseurl: ""
+
+twitter_hashtag: EandD
+github_username: electronics-and-drives
+github_repo: conference-deadlines
+
+markdown: kramdown
+ga_id:
+
+include: ['_pages']

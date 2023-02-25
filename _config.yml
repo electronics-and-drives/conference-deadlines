@@ -1,8 +1,9 @@
 title: Conference Deadlines
-description: Countdowns to ML/EDA/IC/EE/PE conference deadlines
+description: Countdowns to IC-Design, Power Electronics, Electrical Drives and Electronic Design Automation Conference Deadlines
 author: Electronics & Drives
 
-domain: ""
+#domain: ""
+domain: "electronics-and-drives.github.io"
 baseurl: "/conference-deadlines"
 
 twitter_hashtag: EandD

@@ -24,7 +24,7 @@
   date: July 3-5, 2023
   start: 2023-06-03
   end: 2023-06-05
-  hindex: 01
+  hindex: 13
   sub: EDA
   note: <a href='https://smacd-conference.org/content/SMACD23_FinalCFP.pdf'>Call for Papers</a>.
 - title: PRIME
@@ -37,7 +37,7 @@
   date: Juny 18-21, 2023
   start: 2023-07-18
   end: 2023-07-21
-  hindex: 01
+  hindex: 00
   sub: EDA
   note: <a href='http://prime-conference.org/downloads/PRIME2023_cfp.pdf'>Call for Papers</a>.
 - title: MLCAD
@@ -57,13 +57,26 @@
   id: iccad23
   link: https://iccad.com/
   deadline: '2023-05-22 23:59:59'
-  abstract_deadline: '2022-05-15 23:59:59'
+  abstract_deadline: '2023-05-15 23:59:59'
   timezone: EST
   place: San Fransisco, USA
   date: October 29 - November 2, 2023
   start: 2023-10-29
-  end: 2023-11-2
-  hindex: 00
+  end: 2023-11-02
+  hindex: 39
   sub: EDA
   note: <a href='https://confcats-siteplex.s3.us-east-1.amazonaws.com/iccad23/ICCAD_2023_CFP_beebf09bca.pdf'>Call for Papers</a>.
-
+- title: DAC
+  year: 2023
+  id: dac23
+  link: https://dac.com/
+  deadline: '2022-11-21 23:59:59'
+  abstract_deadline: '2022-11-14 23:59:59'
+  timezone: EST
+  place: San Fransisco, USA
+  date: July 9 - 13, 2023
+  start: 2023-07-09
+  end: 2023-07-13
+  hindex: 51
+  sub: EDA
+  note: <a href='https://www.dac.com/Conference/2023-Call-for-Contributions'>Call for Papers</a>.

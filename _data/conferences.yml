@@ -14,6 +14,32 @@
   hindex: 48
   sub: EDA
   note: <a href='https://www.date-conference.com/DATE2023-Call-for-Papers-print.pdf'>Call for Papers</a>.
+- title: SMACD
+  year: 2023
+  id: smacd23
+  link: https://smacd-conference.org/
+  deadline: '2023-02-26 23:59:59'
+  timezone: UTC+1
+  place: Madeira Island, Portugal
+  date: July 3-5, 2023
+  start: 2023-06-03
+  end: 2023-06-05
+  hindex: 01
+  sub: EDA
+  note: <a href='https://smacd-conference.org/content/SMACD23_FinalCFP.pdf'>Call for Papers</a>.
+- title: PRIME
+  year: 2023
+  id: prime23
+  link: http://prime-conference.org/
+  deadline: '2023-02-26 23:59:59'
+  timezone: UTC+1
+  place: Madeira Island, Portugal
+  date: Juny 18-21, 2023
+  start: 2023-07-18
+  end: 2023-07-21
+  hindex: 01
+  sub: EDA
+  note: <a href='http://prime-conference.org/downloads/PRIME2023_cfp.pdf'>Call for Papers</a>.
 - title: MLCAD
   year: 2023
   id: mlcad23

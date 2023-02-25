@@ -39,3 +39,13 @@ To add or update a deadline:
       note:              Call for papers, etc.
     ```
 - Send a pull request
+
+## Test Locally
+
+Refer to [GitHub Pages Guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
+
+```
+$ bundle install
+$ bundle exec jekyll build
+$ bundle exec jekyll serve
+```

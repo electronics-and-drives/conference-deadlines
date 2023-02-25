@@ -15,7 +15,7 @@ body *::selection {
 }
 
 .top-strip {
-  background-color: #333;
+  background-color: #00387b;
   height: 0.25em;
   width: 100%;
 }
@@ -213,7 +213,7 @@ footer {
 }
 
 .pwc-link:hover {
-  border-bottom: 1px solid #1198b2;
+  border-bottom: 1px solid #ffffff;
 }
 
 .icon-inner {
@@ -226,7 +226,7 @@ footer {
 }
 
 .pwc-icon {
-  color: #1198b2;
+  color: #ffffff;
 }
 
 .twitter-github-icons {
@@ -235,7 +235,7 @@ footer {
 
 #past-events-title {
   padding-bottom: 15px;
-  border-bottom: 2px solid #bb2d3b;
+  border-bottom: 2px solid #00387b;
 }
 
 .badge-link {

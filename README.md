@@ -9,7 +9,7 @@ all credit goes to them.
 ## Contributing
 
 To add or update a deadline:
-- Fork the repository
+- E&D members clone the repository, others fork the repository 
 - Update `_data/conferences.yml`
 - Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`,
   `date`, `place`, `sub` attributes
@@ -38,7 +38,7 @@ To add or update a deadline:
       sub:               EDA
       note:              Call for papers, etc.
     ```
-- Send a pull request
+- E&D members just push, others send a pull request
 
 ## Test Locally
 
@@ -49,3 +49,8 @@ $ bundle install
 $ bundle exec jekyll build
 $ bundle exec jekyll serve
 ```
+
+## Known Issues
+
+- [ ] Multiple `sub` causes black color in calendar [original PR](https://github.com/paperswithcode/ai-deadlines/pull/293)
+- [ ] No Notification Date ([yet](https://github.com/paperswithcode/ai-deadlines/issues/388))

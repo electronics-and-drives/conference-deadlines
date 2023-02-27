@@ -25,7 +25,9 @@
   start: 2023-06-03
   end: 2023-06-05
   hindex: 13
-  sub: EDA
+  sub: 
+    - IC
+    - EDA
   note: <a href='https://smacd-conference.org/content/SMACD23_FinalCFP.pdf'>Call for Papers</a>.
 - title: PRIME
   year: 2023
@@ -38,7 +40,9 @@
   start: 2023-07-18
   end: 2023-07-21
   hindex: 00
-  sub: EDA
+  sub: 
+    - IC
+    - EDA
   note: <a href='http://prime-conference.org/downloads/PRIME2023_cfp.pdf'>Call for Papers</a>.
 - title: MLCAD
   year: 2023
@@ -80,3 +84,42 @@
   hindex: 51
   sub: EDA
   note: <a href='https://www.dac.com/Conference/2023-Call-for-Contributions'>Call for Papers</a>.
+- title: ISPD
+  year: 2023
+  id: ispd23
+  link: https://ispd.cc/ispd2023/index.php
+  deadline: '2023-01-29 23:59:59'
+  abstract_deadline: '2023-01-29 23:59:59'
+  timezone: EST
+  place: Virtual, Online
+  date: March 26 - 29, 2023
+  start: 2023-03-26
+  end: 2023-03-29
+  hindex: 00
+  sub: EDA
+- title: ASPDAC
+  year: 2023
+  id: aspdac23
+  link: https://www.aspdac.com/aspdac2023/
+  deadline: '2022-06-29 16:59:59'
+  abstract_deadline: '2022-06-24 16:59:59'
+  timezone: EST
+  place: Tokyo, Japan
+  date: January 16 - 19, 2023
+  start: 2023-01-16
+  end: 2023-01-19
+  hindex: 34
+  sub: EDA
+  note: <a href='https://www.aspdac.com/aspdac2023/cfp/'>Call for Papers</a>.
+- title: LASCAS
+  year: 2023
+  id: lascas23
+  link: https://www.ieee-lascas.org/
+  deadline: '2022-09-25 23:59:59'
+  timezone: EST
+  place: Quito, Ecuador
+  date: February 28 - March 03, 2023
+  start: 2023-02-28
+  end: 2023-03-03
+  hindex: 12
+  sub: EDA

@@ -20,9 +20,9 @@ To add or update a deadline:
   [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng))
 - Example:
     ```yaml
-    - title:             EDAConf
+    - title:             EDAC
       year:              2026
-      id:                edaconf26              # title as lower case + last two digits of year
+      id:                edac26                 # title as lower case + last two digits of year
       full_name:         Best EDA Conference    # full conference name
       link:              link-to-website.com
       deadline:          YYYY-MM-DD HH:SS
@@ -33,8 +33,7 @@ To add or update a deadline:
       start:             YYYY-MM-DD
       end:               YYYY-MM-DD
       paperslink:        link-to-full-paper-list.com
-      pwclink:           link-to-papers-with-code.com
-      hindex:            1.0
+      hindex:            13
       sub:               EDA
       note:              Call for papers, etc.
     ```

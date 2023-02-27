@@ -3,6 +3,7 @@
 - title: DATE
   year: 2023
   id: date23
+  full_name: Design, Automation and Test in Europe Conference
   link: https://www.date-conference.com/
   deadline: '2022-09-25 23:59:59'
   abstract_deadline: '2022-09-18 23:59:59'
@@ -17,6 +18,7 @@
 - title: SMACD
   year: 2023
   id: smacd23
+  full_name: International Conference on Synthesis, Modeling, Analysis and Simulation Methods, and Applications to Circuit Design
   link: https://smacd-conference.org/
   deadline: '2023-02-26 23:59:59'
   timezone: UTC+1
@@ -32,6 +34,7 @@
 - title: PRIME
   year: 2023
   id: prime23
+  full_name: International Conference on PhD Research in Microelectronics and Electronics
   link: http://prime-conference.org/
   deadline: '2023-02-26 23:59:59'
   timezone: UTC+1
@@ -47,6 +50,7 @@
 - title: MLCAD
   year: 2023
   id: mlcad23
+  full_name: Workshop on Machine Learning for Computer-Aided Design
   link: https://mlcad-workshop.org/
   deadline: '2023-06-17 23:59:59'
   timezone: EST
@@ -59,6 +63,7 @@
 - title: ICCAD
   year: 2023
   id: iccad23
+  full_name: International Conference on Computer-Aided Design
   link: https://iccad.com/
   deadline: '2023-05-22 23:59:59'
   abstract_deadline: '2023-05-15 23:59:59'
@@ -73,6 +78,7 @@
 - title: DAC
   year: 2023
   id: dac23
+  full_name: Design Automation Conference
   link: https://dac.com/
   deadline: '2022-11-21 23:59:59'
   abstract_deadline: '2022-11-14 23:59:59'
@@ -87,6 +93,7 @@
 - title: ISPD
   year: 2023
   id: ispd23
+  full_name: International Symposium on Physical Design
   link: https://ispd.cc/ispd2023/index.php
   deadline: '2023-01-29 23:59:59'
   abstract_deadline: '2023-01-29 23:59:59'
@@ -100,6 +107,7 @@
 - title: ASPDAC
   year: 2023
   id: aspdac23
+  full_name: Asia and South Pacific Design Automation Conference
   link: https://www.aspdac.com/aspdac2023/
   deadline: '2022-06-29 16:59:59'
   abstract_deadline: '2022-06-24 16:59:59'
@@ -114,6 +122,7 @@
 - title: LASCAS
   year: 2023
   id: lascas23
+  full_name: Latin America Symposium on Circuits and Systems
   link: https://www.ieee-lascas.org/
   deadline: '2022-09-25 23:59:59'
   timezone: EST

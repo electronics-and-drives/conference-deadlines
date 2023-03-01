@@ -1,5 +1,20 @@
 ---
 
+- title: PCIM
+  year: 2023
+  id: pcim23
+  full_name: Exhibition for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management
+  link: https://pcim.mesago.com/
+  deadline: '2023-02-28 23:59:59'
+  abstract_deadline: '2022-10-018 23:59:59'
+  timezone: UTC+1
+  place: Nuremberg, Germany
+  date: May 9-11, 2023
+  start: 2023-05-09
+  end: 2023-05-11
+  hindex: 00
+  sub: PE
+  note: <a href='https://corporate.mesago.com/content/dam/messefrankfurt-mesago/pcim/2023/presse/pressemeldungen/en/PR_PCI2023_Call_for_Papers.docx'>Call for Papers</a>.
 - title: EDPE
   year: 2023
   id: edpe23

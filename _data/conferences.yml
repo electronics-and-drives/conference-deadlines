@@ -66,8 +66,8 @@
   timezone: UTC+1
   place: Madeira Island, Portugal
   date: July 3-5, 2023
-  start: 2023-06-03
-  end: 2023-06-05
+  start: 2023-07-03
+  end: 2023-07-05
   hindex: 13
   sub: 
     - IC
@@ -81,9 +81,9 @@
   deadline: '2023-02-26 23:59:59'
   timezone: UTC+1
   place: Valencia, Spain
-  date: Juny 18-21, 2023
-  start: 2023-07-18
-  end: 2023-07-21
+  date: June 18-21, 2023
+  start: 2023-06-18
+  end: 2023-06-21
   hindex: 00
   sub: 
     - IC

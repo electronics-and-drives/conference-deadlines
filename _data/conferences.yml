@@ -174,3 +174,31 @@
   end: 2023-03-03
   hindex: 12
   sub: EDA
+- title: ASPDAC
+  year: 2024
+  id: aspdac24
+  full_name: Asia and South Pacific Design Automation Conference
+  link: https://www.aspdac.com/aspdac2024/
+  deadline: '2023-07-28 16:59:59'
+  abstract_deadline: '2023-07-23 16:59:59'
+  timezone: AOE
+  place: Incheon, South Korea
+  date: January 22 - 25, 2024
+  start: 2024-01-22
+  end: 2024-01-25
+  hindex: 34
+  sub: EDA
+  note: <a href='https://www.aspdac.com/aspdac2024/call_for_papers/'>Call for Papers</a>.
+- title: LASCAS
+  year: 2024
+  id: lascas24
+  full_name: Latin America Symposium on Circuits and Systems
+  link: https://www.ieee-lascas.org/
+  deadline: '2023-09-01 23:59:59'
+  timezone: EST
+  place: Punta del Este, Uruguay
+  date: February 27 - March 01, 2024
+  start: 2024-02-27
+  end: 2024-03-01
+  hindex: 12
+  sub: EDA

@@ -147,7 +147,6 @@
   full_name: European Conference on Power Electronics and Applications
   link: https://epe2023.com/
   deadline: '2023-06-01 23:59:59'
-  abstract_deadline: '2023-03-01 23:59:59'
   timezone: UTC+1
   place: Aalborg, Denmark
   date: September 4-8, 2023
@@ -222,8 +221,7 @@
   id: apec24
   full_name: Applied Power Electronics Conference
   link: https://apec-conf.org/
-  deadline: '2023-11-03 23:59:59'
-  abstract_deadline: '2023-07-24 23:59:59'
+  deadline: '2023-07-24 23:59:59
   timezone: UTC-8
   place: Long Beach, USA
   date: February 25-29, 2024
@@ -289,7 +287,9 @@
   start: 2024-09-09
   end: 2024-09-12
   hindex: 8
-  sub: PE   
+  sub:
+    - PE
+    - DRV    
   note: <b>Placeholder Entry. Paper Deadline is TDB.</b>
 
 - title: APEC
@@ -379,5 +379,7 @@
   start: 2026-09-08
   end: 2026-09-11
   hindex: 8
-  sub: PE    
+  sub:
+    - PE
+    - DRV  
   note: <b>Placeholder Entry. Paper Deadline and Dates are TDB.</b>

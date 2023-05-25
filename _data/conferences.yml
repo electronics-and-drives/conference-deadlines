@@ -1,60 +1,35 @@
 ---
+  
+- title: ASPDAC
+  year: 2023
+  id: aspdac23
+  full_name: Asia and South Pacific Design Automation Conference
+  link: https://www.aspdac.com/aspdac2023/
+  deadline: '2022-06-29 16:59:59'
+  abstract_deadline: '2022-06-24 16:59:59'
+  timezone: EST
+  place: Tokyo, Japan
+  date: January 16 - 19, 2023
+  start: 2023-01-16
+  end: 2023-01-19
+  hindex: 34
+  sub: EDA
+  note: <a href='https://www.aspdac.com/aspdac2023/cfp/'>Call for Papers</a>.
+  
+- title: LASCAS
+  year: 2023
+  id: lascas23
+  full_name: Latin America Symposium on Circuits and Systems
+  link: https://www.ieee-lascas.org/
+  deadline: '2022-09-25 23:59:59'
+  timezone: EST
+  place: Quito, Ecuador
+  date: February 28 - March 03, 2023
+  start: 2023-02-28
+  end: 2023-03-03
+  hindex: 12
+  sub: EDA
 
-- title: PCIM
-  year: 2025
-  id: pcim25
-  full_name: Exhibition for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management
-  link: https://pcim.mesago.com/
-  deadline: '2025-12-31 23:59:59'
-  timezone: UTC+1
-  place: Nuremberg, Germany
-  date: May 6-8, 2025
-  start: 2024-05-06
-  end: 2024-05-08
-  hindex: 00
-  sub: PE
-- title: PCIM
-  year: 2024
-  id: pcim24
-  full_name: Exhibition for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management
-  link: https://pcim.mesago.com/
-  deadline: '2024-04-09 23:59:59'
-  abstract_deadline: '2023-10-18 23:59:59'
-  timezone: UTC+1
-  place: Nuremberg, Germany
-  date: June 11-13, 2024
-  start: 2024-06-11
-  end: 2024-06-13
-  hindex: 00
-  sub: PE
-- title: PCIM
-  year: 2023
-  id: pcim23
-  full_name: Exhibition for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management
-  link: https://pcim.mesago.com/
-  deadline: '2023-02-28 23:59:59'
-  abstract_deadline: '2022-10-18 23:59:59'
-  timezone: UTC+1
-  place: Nuremberg, Germany
-  date: May 9-11, 2023
-  start: 2023-05-09
-  end: 2023-05-11
-  hindex: 00
-  sub: PE
-  note: <a href='https://corporate.mesago.com/content/dam/messefrankfurt-mesago/pcim/2023/presse/pressemeldungen/en/PR_PCI2023_Call_for_Papers.docx'>Call for Papers</a>.
-- title: EDPE
-  year: 2023
-  id: edpe23
-  full_name: 36th International Conference on Electrical Drives and Power Electronics
-  link: http://www.edpe.sk/
-  deadline: '2023-04-14 23:59:59'
-  timezone: UTC+1
-  place: The High Tatras, Slovakia
-  date: September 25-27, 2023
-  start: 2023-09-25
-  end: 2023-09-27
-  hindex: 10
-  sub: PE
 - title: APEC
   year: 2023
   id: apec23
@@ -68,87 +43,22 @@
   end: 2023-03-23
   hindex: 39
   sub: PE
-- title: APEC
-  year: 2024
-  id: apec24
-  full_name: Applied Power Electronics Conference
-  link: https://apec-conf.org/
-  deadline: '2024-11-03 23:59:59'
-  abstract_deadline: '2022-07-24 23:59:59'
-  timezone: UTC-8
-  place: Long Beach, USA
-  date: February 25-29, 2024
-  start: 2024-02-25
-  end: 2024-02-29
-  hindex: 39
-  sub: PE
-  note: <a href='https://s3.us-east-1.amazonaws.com/apec-conf-images/Website-APEC-2024-Technical-Call-for-Papers-Announcement.pdf'>Call for Papers</a>.
-- title: APEC
-  year: 2025
-  id: apec24
-  full_name: Applied Power Electronics Conference
-  link: https://apec-conf.org/
-  deadline: '2025-12-31 23:59:59'
-  timezone: UTC-5
-  place: Atlanta, USA
-  date: March 16-20, 2025
-  start: 2025-03-16
-  end: 2025-03-20
-  hindex: 39
-  sub: PE
-- title: APEC
-  year: 2026
-  id: apec24
-  full_name: Applied Power Electronics Conference
-  link: https://apec-conf.org/
-  deadline: '2026-12-31 23:59:59'
-  timezone: UTC-5
-  place: San Antonio, USA
-  date: March 20-26, 2026
-  start: 2026-03-20
-  end: 2026-03-26
-  hindex: 39
-  sub: PE
-- title: APEC
-  year: 2027
-  id: apec24
-  full_name: Applied Power Electronics Conference
-  link: https://apec-conf.org/
-  deadline: '2027-12-31 23:59:59'
-  timezone: UTC-5
-  place: New Orleans, USA
-  date: March 7-11, 2027
-  start: 2027-03-07
-  end: 2027-03-11
-  hindex: 39
-  sub: PE
-- title: PEMC
-  year: 2024
-  id: pemc2024
-  full_name: Power Electronics and Motion Control International Conference
-  link: https://www.ieee-ies.org/conferences
-  deadline: '2023-03-01 23:59:59'
-  timezone: UTC+1
-  place: Pilsen, Czech Republic
-  date: September 9-12, 2024
-  start: 2024-09-09
-  end: 2024-09-12
-  hindex: 8
-  sub: PE  
-- title: EPE
+
+- title: ISPD
   year: 2023
-  id: epe23
-  full_name: European Conference on Power Electronics and Applications
-  link: https://epe2023.com/
-  deadline: '2023-03-01 23:59:59'
-  timezone: UTC+1
-  place: Aalborg, Denmark
-  date: September 4-8, 2023
-  start: 2023-09-04
-  end: 2023-09-08
-  hindex: 20
-  sub: PE
-  note: <a href='https://epe2023.com/wp-content/uploads/EPE_2023_Call_for_Papers.pdf'>Call for Papers</a>.
+  id: ispd23
+  full_name: International Symposium on Physical Design
+  link: https://ispd.cc/ispd2023/index.php
+  deadline: '2023-01-29 23:59:59'
+  abstract_deadline: '2023-01-29 23:59:59'
+  timezone: EST
+  place: Virtual, Online
+  date: March 26 - 29, 2023
+  start: 2023-03-26
+  end: 2023-03-29
+  hindex: 17
+  sub: EDA
+
 - title: DATE
   year: 2023
   id: date23
@@ -164,22 +74,23 @@
   hindex: 48
   sub: EDA
   note: <a href='https://www.date-conference.com/DATE2023-Call-for-Papers-print.pdf'>Call for Papers</a>.
-- title: SMACD
+  
+- title: PCIM
   year: 2023
-  id: smacd23
-  full_name: International Conference on Synthesis, Modeling, Analysis and Simulation Methods, and Applications to Circuit Design
-  link: https://smacd-conference.org/
-  deadline: '2023-02-26 23:59:59'
+  id: pcim23
+  full_name: Exhibition for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management
+  link: https://pcim.mesago.com/
+  deadline: '2023-02-28 23:59:59'
+  abstract_deadline: '2022-10-18 23:59:59'
   timezone: UTC+1
-  place: Madeira Island, Portugal
-  date: July 3-5, 2023
-  start: 2023-07-03
-  end: 2023-07-05
-  hindex: 13
-  sub: 
-    - IC
-    - EDA
-  note: <a href='https://smacd-conference.org/content/SMACD23_FinalCFP.pdf'>Call for Papers</a>.
+  place: Nuremberg, Germany
+  date: May 9-11, 2023
+  start: 2023-05-09
+  end: 2023-05-11
+  hindex: 00
+  sub: PE
+  note: <a href='https://corporate.mesago.com/content/dam/messefrankfurt-mesago/pcim/2023/presse/pressemeldungen/en/PR_PCI2023_Call_for_Papers.docx'>Call for Papers</a>.  
+
 - title: PRIME
   year: 2023
   id: prime23
@@ -196,34 +107,24 @@
     - IC
     - EDA
   note: <a href='http://prime-conference.org/downloads/PRIME2023_cfp.pdf'>Call for Papers</a>.
-- title: MLCAD
+
+- title: SMACD
   year: 2023
-  id: mlcad23
-  full_name: Workshop on Machine Learning for Computer-Aided Design
-  link: https://mlcad-workshop.org/
-  deadline: '2023-07-17 23:59:59'
-  timezone: EST
-  place: Reykjavík, Iceland
-  date: September 10-13, 2023
-  start: 2023-09-10
-  end: 2023-09-13
-  hindex: 00
-  sub: EDA
-- title: ICCAD
-  year: 2023
-  id: iccad23
-  full_name: International Conference on Computer-Aided Design
-  link: https://iccad.com/
-  deadline: '2023-05-22 23:59:59'
-  abstract_deadline: '2023-05-15 23:59:59'
-  timezone: EST
-  place: San Fransisco, USA
-  date: October 29 - November 2, 2023
-  start: 2023-10-29
-  end: 2023-11-02
-  hindex: 39
-  sub: EDA
-  note: <a href='https://confcats-siteplex.s3.us-east-1.amazonaws.com/iccad23/ICCAD_2023_CFP_beebf09bca.pdf'>Call for Papers</a>.
+  id: smacd23
+  full_name: International Conference on Synthesis, Modeling, Analysis and Simulation Methods, and Applications to Circuit Design
+  link: https://smacd-conference.org/
+  deadline: '2023-02-26 23:59:59'
+  timezone: UTC+1
+  place: Madeira Island, Portugal
+  date: July 3-5, 2023
+  start: 2023-07-03
+  end: 2023-07-05
+  hindex: 13
+  sub: 
+    - IC
+    - EDA
+  note: <a href='https://smacd-conference.org/content/SMACD23_FinalCFP.pdf'>Call for Papers</a>.
+ 
 - title: DAC
   year: 2023
   id: dac23
@@ -239,48 +140,67 @@
   hindex: 51
   sub: EDA
   note: <a href='https://www.dac.com/Conference/2023-Call-for-Contributions'>Call for Papers</a>.
-- title: ISPD
+
+- title: EPE
   year: 2023
-  id: ispd23
-  full_name: International Symposium on Physical Design
-  link: https://ispd.cc/ispd2023/index.php
-  deadline: '2023-01-29 23:59:59'
-  abstract_deadline: '2023-01-29 23:59:59'
-  timezone: EST
-  place: Virtual, Online
-  date: March 26 - 29, 2023
-  start: 2023-03-26
-  end: 2023-03-29
-  hindex: 17
-  sub: EDA
-- title: ASPDAC
+  id: epe23
+  full_name: European Conference on Power Electronics and Applications
+  link: https://epe2023.com/
+  deadline: '2023-06-01 23:59:59'
+  abstract_deadline: '2023-03-01 23:59:59'
+  timezone: UTC+1
+  place: Aalborg, Denmark
+  date: September 4-8, 2023
+  start: 2023-09-04
+  end: 2023-09-08
+  hindex: 20
+  sub: PE
+  note: <a href='https://epe2023.com/wp-content/uploads/EPE_2023_Call_for_Papers.pdf'>Call for Papers</a>. <b>Deadline Postponed indefinately</b>.
+  
+- title: MLCAD
   year: 2023
-  id: aspdac23
-  full_name: Asia and South Pacific Design Automation Conference
-  link: https://www.aspdac.com/aspdac2023/
-  deadline: '2022-06-29 16:59:59'
-  abstract_deadline: '2022-06-24 16:59:59'
+  id: mlcad23
+  full_name: Workshop on Machine Learning for Computer-Aided Design
+  link: https://mlcad-workshop.org/
+  deadline: '2023-07-17 23:59:59'
   timezone: EST
-  place: Tokyo, Japan
-  date: January 16 - 19, 2023
-  start: 2023-01-16
-  end: 2023-01-19
-  hindex: 34
+  place: Reykjavík, Iceland
+  date: September 10-13, 2023
+  start: 2023-09-10
+  end: 2023-09-13
+  hindex: 00
   sub: EDA
-  note: <a href='https://www.aspdac.com/aspdac2023/cfp/'>Call for Papers</a>.
-- title: LASCAS
+
+- title: EDPE
   year: 2023
-  id: lascas23
-  full_name: Latin America Symposium on Circuits and Systems
-  link: https://www.ieee-lascas.org/
-  deadline: '2022-09-25 23:59:59'
+  id: edpe23
+  full_name: 36th International Conference on Electrical Drives and Power Electronics
+  link: http://www.edpe.sk/
+  deadline: '2023-04-14 23:59:59'
+  timezone: UTC+1
+  place: The High Tatras, Slovakia
+  date: September 25-27, 2023
+  start: 2023-09-25
+  end: 2023-09-27
+  hindex: 10
+  sub: PE  
+
+- title: ICCAD
+  year: 2023
+  id: iccad23
+  full_name: International Conference on Computer-Aided Design
+  link: https://iccad.com/
+  deadline: '2023-05-22 23:59:59'
+  abstract_deadline: '2023-05-15 23:59:59'
   timezone: EST
-  place: Quito, Ecuador
-  date: February 28 - March 03, 2023
-  start: 2023-02-28
-  end: 2023-03-03
-  hindex: 12
+  place: San Fransisco, USA
+  date: October 29 - November 2, 2023
+  start: 2023-10-29
+  end: 2023-11-02
+  hindex: 39
   sub: EDA
+  note: <a href='https://confcats-siteplex.s3.us-east-1.amazonaws.com/iccad23/ICCAD_2023_CFP_beebf09bca.pdf'>Call for Papers</a>.
+  
 - title: ASPDAC
   year: 2024
   id: aspdac24
@@ -296,6 +216,23 @@
   hindex: 34
   sub: EDA
   note: <a href='https://www.aspdac.com/aspdac2024/call_for_papers/'>Call for Papers</a>.
+
+- title: APEC
+  year: 2024
+  id: apec24
+  full_name: Applied Power Electronics Conference
+  link: https://apec-conf.org/
+  deadline: '2024-11-03 23:59:59'
+  abstract_deadline: '2022-07-24 23:59:59'
+  timezone: UTC-8
+  place: Long Beach, USA
+  date: February 25-29, 2024
+  start: 2024-02-25
+  end: 2024-02-29
+  hindex: 39
+  sub: PE
+  note: <a href='https://s3.us-east-1.amazonaws.com/apec-conf-images/Website-APEC-2024-Technical-Call-for-Papers-Announcement.pdf'>Call for Papers</a>.
+  
 - title: LASCAS
   year: 2024
   id: lascas24
@@ -309,3 +246,148 @@
   end: 2024-03-01
   hindex: 12
   sub: EDA
+
+- title: PCIM
+  year: 2024
+  id: pcim24
+  full_name: Exhibition for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management
+  link: https://pcim.mesago.com/
+  deadline: '2024-04-09 23:59:59'
+  abstract_deadline: '2023-10-18 23:59:59'
+  timezone: UTC+1
+  place: Nuremberg, Germany
+  date: June 11-13, 2024
+  start: 2024-06-11
+  end: 2024-06-13
+  hindex: 00
+  sub: PE
+
+- title: EPE
+  year: 2024
+  id: epe24
+  full_name: European Conference on Power Electronics and Applications
+  link: https://www.epe-association.org/wordpress/
+  deadline: '2024-03-01 23:59:59'
+  timezone: UTC+1
+  place: TDB
+  date: 1st week of September, 2024
+  start: 2023-09-02
+  end: 2023-09-06
+  hindex: 20
+  sub: PE
+  note: <b>Placeholder Entry. Dates are TDB.</b>
+  
+- title: PEMC
+  year: 2024
+  id: pemc24
+  full_name: Power Electronics and Motion Control International Conference
+  link: https://www.ieee-ies.org/conferences
+  deadline: '2023-12-31 23:59:59'
+  timezone: UTC+1
+  place: Pilsen, Czech Republic
+  date: September 9-12, 2024
+  start: 2024-09-09
+  end: 2024-09-12
+  hindex: 8
+  sub: PE   
+  note: <b>Placeholder Entry. Paper Deadline is TDB.</b>
+
+- title: APEC
+  year: 2025
+  id: apec25
+  full_name: Applied Power Electronics Conference
+  link: https://apec-conf.org/
+  deadline: '2024-10-31 23:59:59'
+  timezone: UTC-5
+  place: Atlanta, USA
+  date: March 16-20, 2025
+  start: 2025-03-16
+  end: 2025-03-20
+  hindex: 39
+  sub: PE
+  note: <b>Placeholder Entry. Paper Deadline is TDB.</b>
+  
+- title: PCIM
+  year: 2025
+  id: pcim25
+  full_name: Exhibition for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management
+  link: https://pcim.mesago.com/
+  deadline: '2025-02-28 23:59:59'
+  timezone: UTC+1
+  place: Nuremberg, Germany
+  date: May 6-8, 2025
+  start: 2024-05-06
+  end: 2024-05-08
+  hindex: 00
+  sub: PE
+  note: <b>Placeholder Entry. Paper Deadline is TDB.</b>
+  
+- title: EPE
+  year: 2025
+  id: epe25
+  full_name: European Conference on Power Electronics and Applications
+  link: https://www.epe-association.org/wordpress/
+  deadline: '2025-03-01 23:59:59'
+  timezone: UTC+1
+  place: TDB
+  date: 1st week of September, 2025
+  start: 2023-09-01
+  end: 2023-09-05
+  hindex: 20
+  sub: PE
+  note: <b>Placeholder Entry. Dates are TDB.</b>
+  
+- title: APEC
+  year: 2026
+  id: apec26
+  full_name: Applied Power Electronics Conference
+  link: https://apec-conf.org/
+  deadline: '2025-10-31 23:59:59'
+  timezone: UTC-5
+  place: San Antonio, USA
+  date: March 20-26, 2026
+  start: 2026-03-20
+  end: 2026-03-26
+  hindex: 39
+  sub: PE
+  note: <b>Placeholder Entry. Paper Deadline is TDB.</b>
+  
+- title: PEMC
+  year: 2026
+  id: pemc26
+  full_name: Power Electronics and Motion Control International Conference
+  link: https://www.ieee-ies.org/conferences
+  deadline: '2025-12-31 23:59:59'
+  timezone: UTC+1
+  place: TDB
+  date: September, 2026
+  start: 2026-09-08
+  end: 2026-09-11
+  hindex: 8
+  sub: PE    
+  note: <b>Placeholder Entry. Paper Deadline and Dates are TDB.</b>
+  
+- title: APEC
+  year: 2027
+  id: apec27
+  full_name: Applied Power Electronics Conference
+  link: https://apec-conf.org/
+  deadline: '2026-10-31 23:59:59'
+  timezone: UTC-5
+  place: New Orleans, USA
+  date: March 7-11, 2027
+  start: 2027-03-07
+  end: 2027-03-11
+  hindex: 39
+  sub: PE
+  note: <b>Placeholder Entry. Paper Deadline is TDB.</b>
+  
+
+
+
+
+
+
+  
+
+  

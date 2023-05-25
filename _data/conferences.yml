@@ -1,12 +1,40 @@
 ---
 
 - title: PCIM
+  year: 2025
+  id: pcim25
+  full_name: Exhibition for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management
+  link: https://pcim.mesago.com/
+  timezone: UTC+1
+  place: Nuremberg, Germany
+  date: May 6-8, 2025
+  start: 2024-05-06
+  end: 2024-05-08
+  hindex: 00
+  sub: PE
+  note: <a href='https://corporate.mesago.com/content/dam/messefrankfurt-mesago/pcim/2023/presse/pressemeldungen/en/PR_PCI2023_Call_for_Papers.docx'>Call for Papers</a>.
+- title: PCIM
+  year: 2024
+  id: pcim24
+  full_name: Exhibition for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management
+  link: https://pcim.mesago.com/
+  deadline: '2024-04-09 23:59:59'
+  abstract_deadline: '2023-10-18 23:59:59'
+  timezone: UTC+1
+  place: Nuremberg, Germany
+  date: June 11-13, 2024
+  start: 2024-06-11
+  end: 2024-06-13
+  hindex: 00
+  sub: PE
+  note: <a href='https://corporate.mesago.com/content/dam/messefrankfurt-mesago/pcim/2023/presse/pressemeldungen/en/PR_PCI2023_Call_for_Papers.docx'>Call for Papers</a>.
+- title: PCIM
   year: 2023
   id: pcim23
   full_name: Exhibition for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management
   link: https://pcim.mesago.com/
   deadline: '2023-02-28 23:59:59'
-  abstract_deadline: '2022-10-018 23:59:59'
+  abstract_deadline: '2022-10-18 23:59:59'
   timezone: UTC+1
   place: Nuremberg, Germany
   date: May 9-11, 2023
@@ -15,6 +43,7 @@
   hindex: 00
   sub: PE
   note: <a href='https://corporate.mesago.com/content/dam/messefrankfurt-mesago/pcim/2023/presse/pressemeldungen/en/PR_PCI2023_Call_for_Papers.docx'>Call for Papers</a>.
+  
 - title: EDPE
   year: 2023
   id: edpe23
@@ -28,6 +57,83 @@
   end: 2023-09-27
   hindex: 10
   sub: PE
+  
+- title: APEC
+  year: 2023
+  id: apec23
+  full_name: Applied Power Electronics Conference
+  link: https://apec-conf.org/
+  timezone: UTC-5
+  place: Chicago, USA
+  date: March 18-23, 2023
+  start: 2023-03-18
+  end: 2023-03-23
+  hindex: 39
+  sub: PE
+- title: APEC
+  year: 2024
+  id: apec24
+  full_name: Applied Power Electronics Conference
+  link: https://apec-conf.org/
+  deadline: '2024-11-03 23:59:59'
+  abstract_deadline: '2022-07-24 23:59:59'
+  timezone: UTC-8
+  place: Long Beach, USA
+  date: February 25-29, 2024
+  start: 2024-02-25
+  end: 2024-02-29
+  hindex: 39
+  sub: PE
+  note: <a href='https://s3.us-east-1.amazonaws.com/apec-conf-images/Website-APEC-2024-Technical-Call-for-Papers-Announcement.pdf'>Call for Papers</a>.
+- title: APEC
+  year: 2025
+  id: apec24
+  full_name: Applied Power Electronics Conference
+  link: https://apec-conf.org/
+  timezone: UTC-5
+  place: Atlanta, USA
+  date: March 16-20, 2025
+  start: 2025-03-16
+  end: 2025-03-20
+  hindex: 39
+  sub: PE
+- title: APEC
+  year: 2026
+  id: apec24
+  full_name: Applied Power Electronics Conference
+  link: https://apec-conf.org/
+  timezone: UTC-5
+  place: San Antonio, USA
+  date: March 20-26, 2026
+  start: 2026-03-20
+  end: 2026-03-26
+  hindex: 39
+  sub: PE
+- title: APEC
+  year: 2027
+  id: apec24
+  full_name: Applied Power Electronics Conference
+  link: https://apec-conf.org/
+  timezone: UTC-5
+  place: New Orleans, USA
+  date: March 7-11, 2027
+  start: 2027-03-07
+  end: 2027-03-11
+  hindex: 39
+  sub: PE
+  
+- title: PEMC
+  year: 2024
+  id: pemc2024
+  full_name: Power Electronics and Motion Control International Conference
+  timezone: UTC+1
+  place: Pilsen, Czech Republic
+  date: September 9-12, 2024
+  start: 2024-09-09
+  end: 2024-09-12
+  hindex: 8
+  sub: PE  
+  
 - title: EPE
   year: 2023
   id: epe23
@@ -42,6 +148,7 @@
   hindex: 20
   sub: PE
   note: <a href='https://epe2023.com/wp-content/uploads/EPE_2023_Call_for_Papers.pdf'>Call for Papers</a>.
+  
 - title: DATE
   year: 2023
   id: date23

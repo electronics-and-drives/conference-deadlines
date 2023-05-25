@@ -155,7 +155,7 @@
   end: 2023-09-08
   hindex: 20
   sub: PE
-  note: <a href='https://epe2023.com/wp-content/uploads/EPE_2023_Call_for_Papers.pdf'>Call for Papers</a>. <b>Deadline Postponed indefinately</b>.
+  note: Paper Deadline known: 01.03.2023. <a href='https://epe2023.com/wp-content/uploads/EPE_2023_Call_for_Papers.pdf'>Call for Papers</a>. <b>Deadline Postponed indefinately</b>.
   
 - title: MLCAD
   year: 2023
@@ -222,8 +222,8 @@
   id: apec24
   full_name: Applied Power Electronics Conference
   link: https://apec-conf.org/
-  deadline: '2024-11-03 23:59:59'
-  abstract_deadline: '2022-07-24 23:59:59'
+  deadline: '2023-11-03 23:59:59'
+  abstract_deadline: '2023-07-24 23:59:59'
   timezone: UTC-8
   place: Long Beach, USA
   date: February 25-29, 2024
@@ -231,7 +231,7 @@
   end: 2024-02-29
   hindex: 39
   sub: PE
-  note: <a href='https://s3.us-east-1.amazonaws.com/apec-conf-images/Website-APEC-2024-Technical-Call-for-Papers-Announcement.pdf'>Call for Papers</a>.
+  note: Paper Deadline known: 24.07.2023.<a href='https://s3.us-east-1.amazonaws.com/apec-conf-images/Website-APEC-2024-Technical-Call-for-Papers-Announcement.pdf'>Call for Papers</a>.
   
 - title: LASCAS
   year: 2024
@@ -252,8 +252,7 @@
   id: pcim24
   full_name: Exhibition for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management
   link: https://pcim.mesago.com/
-  deadline: '2024-04-09 23:59:59'
-  abstract_deadline: '2023-10-18 23:59:59'
+  deadline: '2023-10-18 23:59:59'
   timezone: UTC+1
   place: Nuremberg, Germany
   date: June 11-13, 2024
@@ -261,6 +260,7 @@
   end: 2024-06-13
   hindex: 00
   sub: PE
+  note: Paper Deadline known: 18.10.2023.
 
 - title: EPE
   year: 2024
@@ -275,7 +275,7 @@
   end: 2023-09-06
   hindex: 20
   sub: PE
-  note: <b>Placeholder Entry. Dates are TDB.</b>
+  note: <b>Placeholder Entry. Paper Deadline and Dates are TDB.</b>
   
 - title: PEMC
   year: 2024
@@ -335,7 +335,7 @@
   end: 2023-09-05
   hindex: 20
   sub: PE
-  note: <b>Placeholder Entry. Dates are TDB.</b>
+  note: <b>Placeholder Entry. Paper Deadline and Dates are TDB.</b>
   
 - title: APEC
   year: 2026
@@ -351,6 +351,21 @@
   hindex: 39
   sub: PE
   note: <b>Placeholder Entry. Paper Deadline is TDB.</b>
+
+- title: EPE
+  year: 2026
+  id: epe26
+  full_name: European Conference on Power Electronics and Applications
+  link: https://www.epe-association.org/wordpress/
+  deadline: '2026-03-01 23:59:59'
+  timezone: UTC+1
+  place: TDB
+  date: 1st week of September, 2026
+  start: 2026-09-07
+  end: 2026-09-11
+  hindex: 20
+  sub: PE
+  note: <b>Placeholder Entry. Paper Deadline and Dates are TDB.</b>
   
 - title: PEMC
   year: 2026
@@ -366,28 +381,3 @@
   hindex: 8
   sub: PE    
   note: <b>Placeholder Entry. Paper Deadline and Dates are TDB.</b>
-  
-- title: APEC
-  year: 2027
-  id: apec27
-  full_name: Applied Power Electronics Conference
-  link: https://apec-conf.org/
-  deadline: '2026-10-31 23:59:59'
-  timezone: UTC-5
-  place: New Orleans, USA
-  date: March 7-11, 2027
-  start: 2027-03-07
-  end: 2027-03-11
-  hindex: 39
-  sub: PE
-  note: <b>Placeholder Entry. Paper Deadline is TDB.</b>
-  
-
-
-
-
-
-
-  
-
-  

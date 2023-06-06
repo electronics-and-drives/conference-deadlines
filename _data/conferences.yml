@@ -1,5 +1,20 @@
 ---
 
+- title: ISPD
+  year: 2024
+  id: ispd24
+  full_name: International Symposium on Physical Design
+  link: https://ispd.cc/ispd2024/index.php
+  deadline: '2023-10-30 23:59:59'
+  abstract_deadline: '2023-10-24 23:59:59'
+  timezone: EST
+  place: Taipei, Taiwan
+  date: March 12 - 15, 2024
+  start: 2024-03-12
+  end: 2024-03-15
+  hindex: 17
+  sub: EDA
+
 - title: VIS
   year: 2023
   id: vis24

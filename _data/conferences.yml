@@ -1,4 +1,20 @@
 ---
+
+- title: VIS
+  year: 2023
+  id: vis24
+  full_name: Visualization and Visual Analytics
+  link: https://www.ieeevis.org/year/2023/welcome
+  deadline: '2023-03-31 16:59:59'
+  abstract_deadline: '2022-03-21 16:59:59'
+  timezone: EST
+  place: Melbourne, Australia
+  date: October 22 - 27, 2023
+  start: 2023-10-22
+  end: 2023-10-27
+  hindex: 0
+  sub: EDA
+  note: <a href='https://www.ieeevis.org/year/2023/info/call-participation/call-for-participation'>Call for Papers</a>.
   
 - title: ASPDAC
   year: 2023

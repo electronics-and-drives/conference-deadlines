@@ -1,5 +1,21 @@
 ---
 
+- title: DATE
+  year: 2024
+  id: date24
+  full_name: Design, Automation and Test in Europe Conference
+  link: https://www.date-conference.com/
+  deadline: '2023-09-17 23:59:59'
+  abstract_deadline: '2023-09-10 23:59:59'
+  timezone: UTC+1
+  place: Valencia, Spain
+  date: March 25-27, 2024
+  start: 2024-03-25
+  end: 2024-03-27
+  hindex: 48
+  sub: EDA
+  note: <a href='https://www.date-conference.com/DATE2024-Call-for-Papers-print.pdf'>Call for Papers</a>.
+ 
 - title: ISQED
   year: 2024
   id: isqed24

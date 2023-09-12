@@ -1,5 +1,20 @@
 ---
 
+- title: ISQED
+  year: 2024
+  id: isqed24
+  full_name: International Symposium on Quality Electronic Design
+  link: https://www.isqed.org/
+  deadline: Sept. '2023-09-29 23:59:59'
+  timezone: AOE
+  place: San Fransisco, USA
+  date: April 3 - 5, 2024 
+  start: 2024-04-03
+  end: 2024-04-05
+  hindex: 19
+  sub: EDA
+  note: <a href="https://www.isqed.org/English/Conference/Call_for_Papers.html">Call for Papers</a>
+
 - title: ISPD
   year: 2024
   id: ispd24

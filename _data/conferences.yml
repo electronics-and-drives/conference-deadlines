@@ -1,5 +1,19 @@
 ---
-
+- title: ECCE
+  year: 2024
+  id: ecce24
+  full_name: Energy Conversion Conference and Exposition
+  link: https://www.ieee-ecce.org/
+  deadline: '2024-01-11 23:59:59'
+  timezone: UTC-6
+  place: Phoenix, United States
+  date: Oktober 20-24, 2024
+  start: 2024-10-20
+  end: 2024-10-24
+  hindex: 33
+  sub: PE
+  note: deadline shows digest deadline
+  
 - title: DATE
   year: 2024
   id: date24

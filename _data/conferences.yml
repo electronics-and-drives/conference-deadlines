@@ -1,4 +1,20 @@
 ---
+
+- title: MLCAD
+  year: 2024
+  id: mlcad24
+  full_name: Symposium on Machine Learning for Computer-Aided Design
+  link: https://mlcad-workshop.org/
+  deadline: '2024-03-08 23:59:59'
+  timezone: EST
+  place: Snowbird, USA
+  date: September 8 - 11, 2024
+  start: 2024-09-08
+  end: 2024-09-11
+  hindex: 00
+  sub: EDA
+  note: <b>Placeholder Entry. Paper Deadline and Dates are TDB.</b>
+
 - title: ECCE
   year: 2024
   id: ecce24
@@ -76,6 +92,21 @@
   sub: EDA
   note: <a href='https://www.ieeevis.org/year/2023/info/call-participation/call-for-participation'>Call for Papers</a>.
   
+- title: CDNLive
+  year: 2023
+  id: cdnlive23
+  full_name: CadenceLIVE Europe
+  link: https://www.cadence.com/en_US/home/company/events/industry-events/cadencelive-europe-2023-.html
+  deadline: '2023-05-31 23:59:59'
+  timezone: UTC+1
+  place: Munich, Germany
+  date: October 10 - 11, 2023
+  start: 2023-10-10
+  end: 2023-10-11
+  hindex: 0
+  sub: EDA
+  note: <a href='https://events.cadence.com/event/462e6c33-0ecd-4501-ae4d-7adc3c49c109/summary?RefId=CadenceLIVE_AbstSum'>Call for Papers</a>.
+ 
 - title: ASPDAC
   year: 2023
   id: aspdac23
@@ -239,7 +270,7 @@
   link: https://mlcad-workshop.org/
   deadline: '2023-07-17 23:59:59'
   timezone: EST
-  place: Reykjavík, Iceland
+  place: Snowbird, USA
   date: September 10-13, 2023
   start: 2023-09-10
   end: 2023-09-13

@@ -1,5 +1,119 @@
 ---
 
+- title: MELECON
+  year: 2024
+  id: melecon24
+  full_name: Mediterranean Electrotechnical Conference
+  link: https://2024.ieee-melecon.org
+  deadline: '2024-01-15 23:59:59'
+  timezone: UTC+1
+  place: Porto, Portugal
+  date: June 25-27, 2024
+  start: 2024-06-25
+  end: 2024-06-27
+  hindex: 0
+  sub:
+    - EDA
+  note: <a href='https://2024.ieee-melecon.org/wp-content/uploads/sites/514/2023/10/IEEE_MELECON_2024_CFPapers.pdf'>Call for Papers</a>.
+
+- title: RUSAUTOCON
+  year: 2024
+  id: rusautocon24
+  full_name: International Russian Automation Conference
+  link: https://rusautocon.org/index-eng.html
+  deadline: '2024-04-30 23:59:59'
+  timezone: UTC+1
+  place: Sochi, Russia
+  date: September 08-14, 2024
+  start: 2024-09-08
+  end: 2024-09-14
+  hindex: 0
+  sub:
+    - EDA
+  note: <a href='https://rusautocon.org/doc/call_for_papers.pdf'>Call for Papers</a>.
+
+- title: SEEDA-CECNSM
+  year: 2024
+  id: seedacecnsm24
+  full_name: South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference
+  link: https://seeda2024.unipi.gr/
+  deadline: '2024-07-31 23:59:59'
+  timezone: UTC+1
+  place: Piraeus, Greece
+  date: November 10-12, 2024
+  start: 2024-11-10
+  end: 2024-11-12
+  hindex: 14
+  sub:
+    - EDA
+  note: <a href='https://seeda2024.unipi.gr/'>Call for Papers</a>.
+
+- title: DVCON
+  year: 2024
+  id: dvcon24
+  full_name: Design and Verification Conference and Exhibition
+  link: https://dvcon-europe.org/
+  deadline: '2024-07-31 23:59:59'
+  timezone: UTC+1
+  place: Munich, Germany
+  date: October 15-16, 2024
+  start: 2024-10-15
+  end: 2024-10-16
+  hindex: 0
+  sub: 
+    - EDA
+  note: <a href='https://dvcon-europe.org/call-for-engineering-papers/'>Call for Papers</a>.
+
+- title: DMC
+  year: 2024
+  id: dmc24
+  full_name: Design Methodologies Confrence
+  link: https://attend.ieee.org/dmc-2024
+  deadline: '2024-07-31 23:59:59'
+  timezone: UTC+1
+  place: Miami, Florida, USA
+  date: September 24-26, 2024
+  start: 2024-09-24
+  end: 2024-09-26
+  hindex: 0
+  sub: 
+    - PE
+    - EDA
+  note: <a href='https://www.conftool.pro/dmc-2024/'>Call for Papers</a>.
+ 
+- title: SMACD
+  year: 2024
+  id: smacd24
+  full_name: International Conference on Synthesis, Modeling, Analysis and Simulation Methods, and Applications to Circuit Design
+  link: https://smacd-conference.org/
+  deadline: '2024-02-26 23:59:59'
+  timezone: UTC+1
+  place: Volos, Greece
+  date: July 2-5, 2024
+  start: 2024-07-02
+  end: 2024-07-05
+  hindex: 13
+  sub: 
+    - IC
+    - EDA
+  note: <a href='https://smacd-conference.org/'>Call for Papers</a>.
+ 
+- title: DAC
+  year: 2024
+  id: dac24
+  full_name: Design Automation Conference
+  link: https://dac.com/
+  deadline: '2023-11-20 23:59:59'
+  abstract_deadline: '2023-11-13 23:59:59'
+  timezone: PST
+  place: San Fransisco, USA
+  date: July 23 - 27, 2024
+  start: 2024-07-23
+  end: 2024-07-27
+  hindex: 60
+  sub: EDA
+  note: <a href='https://www.dac.com/Conference/2024-Call-for-Contributions'>Call for Papers</a>.
+
 - title: MLCAD
   year: 2024
   id: mlcad24

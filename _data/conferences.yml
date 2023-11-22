@@ -12,8 +12,7 @@
   start: 2024-06-25
   end: 2024-06-27
   hindex: 0
-  sub:
-    - EDA
+  sub: EDA
   note: <a href='https://2024.ieee-melecon.org/wp-content/uploads/sites/514/2023/10/IEEE_MELECON_2024_CFPapers.pdf'>Call for Papers</a>.
 
 - title: RUSAUTOCON
@@ -28,8 +27,7 @@
   start: 2024-09-08
   end: 2024-09-14
   hindex: 0
-  sub:
-    - EDA
+  sub: EDA
   note: <a href='https://rusautocon.org/doc/call_for_papers.pdf'>Call for Papers</a>.
 
 - title: SEEDA-CECNSM
@@ -44,8 +42,7 @@
   start: 2024-11-10
   end: 2024-11-12
   hindex: 14
-  sub:
-    - EDA
+  sub: EDA
   note: <a href='https://seeda2024.unipi.gr/'>Call for Papers</a>.
 
 - title: DVCON
@@ -60,8 +57,7 @@
   start: 2024-10-15
   end: 2024-10-16
   hindex: 0
-  sub: 
-    - EDA
+  sub: EDA
   note: <a href='https://dvcon-europe.org/call-for-engineering-papers/'>Call for Papers</a>.
 
 - title: DMC

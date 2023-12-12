@@ -1,5 +1,20 @@
 ---
 
+title: ECCE Europe
+  year: 2024
+  id: ecce24europe
+  full_name: Energy Conversion Conference and Exposition
+  link: https://ecce-europe.lufed-it.de/
+  deadline: '2024-02-26 23:59:59'
+  timezone: UTC+1
+  place: Darmstadt, Germany
+  date: Oktober 20-24, 2024
+  start: 2024-09-02
+  end: 2024-09-06
+  hindex: 0
+  sub: PE
+  note: deadline shows full paper deadline 
+  
 - title: MELECON
   year: 2024
   id: melecon24
